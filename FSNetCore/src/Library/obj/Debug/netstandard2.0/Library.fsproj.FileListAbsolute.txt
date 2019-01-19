@@ -1,0 +1,6 @@
+/workspace/fsharp/FSNetCore/src/Library/bin/Debug/netstandard2.0/Library.deps.json
+/workspace/fsharp/FSNetCore/src/Library/bin/Debug/netstandard2.0/Library.dll
+/workspace/fsharp/FSNetCore/src/Library/bin/Debug/netstandard2.0/Library.pdb
+/workspace/fsharp/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.fsproj.CoreCompileInputs.cache
+/workspace/fsharp/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.dll
+/workspace/fsharp/FSNetCore/src/Library/obj/Debug/netstandard2.0/Library.pdb

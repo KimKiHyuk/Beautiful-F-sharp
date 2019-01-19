@@ -1,0 +1,10 @@
+/workspace/fsharp/FSNetCore/src/App/bin/Debug/netcoreapp2.0/App.deps.json
+/workspace/fsharp/FSNetCore/src/App/bin/Debug/netcoreapp2.0/App.runtimeconfig.json
+/workspace/fsharp/FSNetCore/src/App/bin/Debug/netcoreapp2.0/App.runtimeconfig.dev.json
+/workspace/fsharp/FSNetCore/src/App/bin/Debug/netcoreapp2.0/App.dll
+/workspace/fsharp/FSNetCore/src/App/bin/Debug/netcoreapp2.0/App.pdb
+/workspace/fsharp/FSNetCore/src/App/bin/Debug/netcoreapp2.0/Library.dll
+/workspace/fsharp/FSNetCore/src/App/bin/Debug/netcoreapp2.0/Library.pdb
+/workspace/fsharp/FSNetCore/src/App/obj/Debug/netcoreapp2.0/App.fsproj.CoreCompileInputs.cache
+/workspace/fsharp/FSNetCore/src/App/obj/Debug/netcoreapp2.0/App.dll
+/workspace/fsharp/FSNetCore/src/App/obj/Debug/netcoreapp2.0/App.pdb
