@@ -4,10 +4,11 @@
 * https://docs.microsoft.com/en-us/dotnet/fsharp/get-started/get-started-command-line
 ## To do using F-sharp
 
-* simple rest server
-* application for .net core
-* parallel computing
-* build script
+* Practice of functional programming 
+* Simple rest server
+* Application for .net core
+* Parallel computing
+* Build script
 * Cuda programming in F#
 * OpenCL programming in F#
 * what's more?
